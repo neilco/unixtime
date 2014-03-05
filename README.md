@@ -19,6 +19,10 @@ __A command-line utility for converting a date or date & time into a UNIX timest
 
 If no argument is supplied, `now` is assumed.
 
+### Build
+
+`go build -o unixtime main.go`
+
 ### Contact
 
 [Neil Cowburn](http://github.com/neilco)  
